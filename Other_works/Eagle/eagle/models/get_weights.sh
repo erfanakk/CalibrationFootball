@@ -1,0 +1,2 @@
+gdown 1rTArr_3eO35Ynea2HXqPYOxDdkDYLfMI
+unzip weights.zip
